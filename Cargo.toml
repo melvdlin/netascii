@@ -7,5 +7,5 @@ rust-version = "1.81.0"
 description = "Iterator adaptors for encoding and decoding netascii as according to RFC 854."
 documentation = "https://docs.rs/netascii"
 license = "MIT OR Apache-2.0"
-keywords = ["netascii", "iterator", "encoding"]
+keywords = ["netascii", "encoding"]
 categories = ["no-std", "no-std::no-alloc", "encoding"]
