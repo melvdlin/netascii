@@ -8,4 +8,4 @@ description = "Iterator adaptors for encoding and decoding netascii as according
 documentation = "https://docs.rs/netascii"
 license = "MIT OR Apache-2.0"
 keywords = ["netascii", "iterator", "encoding"]
-categories = ["no-std", "no-std::no-alloc"]
+categories = ["no-std", "no-std::no-alloc", "encoding"]
