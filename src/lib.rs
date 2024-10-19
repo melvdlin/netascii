@@ -5,6 +5,7 @@
 //! This crate is fully `no_std`-compatible and does not require `alloc`.
 
 #![cfg_attr(not(any(test, doctest)), no_std)]
+#![forbid(unsafe_code, unused_must_use)]
 
 use core::error::Error;
 use core::fmt::Display;
